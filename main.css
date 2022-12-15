@@ -1,0 +1,20 @@
+
+.bord{
+  border: solid #000 3px;
+max-width:  300px;
+height: 600px;
+padding: 20px;
+margin: 0 auto;
+background-color:darkslategray ;
+}
+.lamp{
+  border: solid 3px #000;
+  border-radius: 50%;
+  max-width: 67%;
+height: 30%;
+margin:  10px auto;
+background-color: black;
+  
+
+
+}
